@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DecimalABinario
+comment0.text=\r\n\ Josue\ Jonathan\ Perez\ Valenzuela\r\n\ Problema\ 6\ (De\ decimal\ a\ binario)\:\r\n\ Dado\ un\ numero\ del\ sistema\ decimal\ leido\ por\ teclado,\ se\ debe\ imprimir\ su\r\n\ equivalente\ en\ el\ sistema\ binario\r\n\ Ejemplo\:\r\n\ Numero\ 10\ en\ decimal\ para\ convertirlo\ se\ debe\ hacer\ el\ siguiente\ proceso\:\r\n\ 10\ %\ 2\ \=\ 0\ ->\ binario\ \=\ "0"\r\n\ 10\ /\ 2\ \=\ 5\r\n\ 5\ %\ 2\ \=\ 1\ ->\ binario\ \=\ "10"\r\n\ 5\ /\ 2\ \=\ 2\r\n\ 2\ %\ 2\ \=\ 0\ ->\ binario\ \=\ "010"\r\n\ 2\ /\ 2\ \=\ 1\r\n\ 1\ %\ 2\ \=\ 1\ ->\ binario\ \=\ "1010"\r\n\ 1\ /\ 2\ \=\ 0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

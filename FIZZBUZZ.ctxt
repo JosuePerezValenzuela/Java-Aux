@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FIZZBUZZ
+comment0.text=\r\n\ Josue\ Jonathan\ Perez\ Valenzuela\r\n\ Problema\ 4\ (Fizz\ -\ Buzz)\:\r\n\ Se\ desea\ imprimir\ los\ numeros\ del\ 1\ al\ 100,\ teniendo\ en\ cuenta\ que\:\r\n\ si\ el\ numero\ a\ imprimir\ es\ multiplo\ de\ 3\ se\ debe\ imprimir\ "Fizz"\r\n\ si\ el\ numero\ a\ imprimir\ es\ multiplo\ de\ 5\ se\ debe\ imprimir\ "Buzz"\ \r\n\ y\ en\ caso\ de\ que\ sea\ multiplo\ tanto\ de\ 3\ y\ 5\ se\ debe\ imprimir\ "FizzBuzz"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

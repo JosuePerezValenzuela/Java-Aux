@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IMC
+comment0.text=\r\nJosue\ Jonathan\ Perez\ Valenzuela\r\nProblema\ 1\ (IMC)\:\r\nCalcular\ el\ IMC\ (indice\ de\ masa\ corporal\ dado\ el\ peso\ en\ kg\ y\ la\r\naltura\ en\ metros\ de\ una\ persona\r\nIMC\ \=\ Peso\ /\ (Altura\ *\ Altura)\r\nSi\ IMC\ <\ 18.5\ "Bajo\ peso"\r\nSi\ IMC\ <\ 24.9\ "Peso\ normal"\r\nSi\ IMC\ <\ 29.9\ "Sobre\ peso"\r\nOtro\ caso\ "Obesidad"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

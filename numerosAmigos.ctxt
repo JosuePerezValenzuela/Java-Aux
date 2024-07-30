@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=numerosAmigos
+comment0.text=\r\n\ Josue\ Jonathan\ Perez\ Valenzuela\r\n\ Problema\ 3\ (Numeros\ amigos)\:\r\n\ Dado\ 2\ numeros\ determinar\ si\ estos\ son\ amigos,\ 2\ numeros\ son\ amigos\ se\ da\r\n\ cuando\ la\ suma\ de\ los\ divisores\ propios\ de\ A\ (excluyendolo\ a\ el\ mismo)\r\n\ es\ igual\ a\ B\ y\ la\ suma\ de\ los\ divisores\ de\ B\ (excluyendolo\ a\ el\ mismo)\r\n\ es\ igual\ a\ A.\r\n\ Ejemplo\r\n\ 220\ y\ 284\r\n\ Divisores\ de\ 220\ ->\ 1,\ 2,\ 4,\ 5,\ 10,\ 11,\ 20,\ 22,\ 44,\ 55,\ 110\r\n\ Divisores\ de\ 284\ ->\ 1,\ 2,\ 4,\ 71,\ 142\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numero
+comment2.target=int\ sumaDivisoresPropios(int)
+numComments=3

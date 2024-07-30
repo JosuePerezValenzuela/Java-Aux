@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Adivinanza
+comment0.text=\r\n\ Josue\ Jonathan\ Perez\ Valenzuela\r\n\ Problema\ 5\ (Juego\ de\ adivinanza)\:\r\n\ Juego\ de\ adivinanza\ de\ numeros,\ programa\ que\ genere\ un\ numero\ aleatorio\ entre\ 1\ y\ 100,\ \r\n\ el\ usuario\ debe\ adivinar\ el\ numero\ generado\ mediante\ teclado,\ asi\ mismo\ el\ programa\ debe\ \r\n\ dar\ pistas\ como\ "Bajo",\ "Alto"\ y\ "Adivinado"\ e\ imprimir\ el\ numero\ de\ intentos.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

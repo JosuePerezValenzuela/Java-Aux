@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=triangulo
+comment0.text=\r\n\ Josue\ Jonathan\ Perez\ Valenzuela\r\n\ Problema\ 2\ (Determinar\ el\ tipo\ de\ triangulo)\:\r\n\ Dado\ los\ 3\ lados\ de\ un\ triangulo\ se\ debe\ determinar\ si\ este\ es\ valido\r\n\ en\ caso\ de\ que\ lo\ sea\ tambien\ se\ debe\ determinar\ el\ tipo\ de\ triangulo\r\n\ \r\n\ Para\ que\ un\ triangulo\ sea\ considerado\ valido\ la\ suma\ de\ 2\ lados\r\n\ siempre\ debe\ ser\ mayor\ al\ otro\ lado\r\n\ Equilatero\ ->\ Todos\ los\ lados\ son\ iguales\r\n\ Isosceles\ ->\ Dos\ lados\ son\ iguales\r\n\ Escaleno\ ->\ Ningun\ lado\ es\ igual\ a\ otro\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
